@@ -41,4 +41,4 @@ Conclusions
 - According to the analysis the findings are that the total number of injuries be it minor or major have reduced meaning over the recent past crashes have been minimal.
 - After accidents the damage levels of most aircrafts is substantial(76%).
 - It is recommended that the company purchases aircrafts from 2000 henceforth but those with the lowest risk rate. As many accidents have happened during the climb and landing Phase it is recommended that as preparation for purchase is done maybe more training could help deal with this.
-The link to my tableau story is https://public.tableau.com/app/profile/samuel.njogu2458/viz/AviationProject_/Story1?publish=yes
+The link to my tableau story is https://public.tableau.com/app/profile/samuel.njogu2458/viz/AviationProject_/Dashboard1?publish=yes
